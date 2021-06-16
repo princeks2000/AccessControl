@@ -1,5 +1,5 @@
 <?php
-namespace AccessControl
+namespace Princeks2000\AccessControl
 /**
  * 
  */
