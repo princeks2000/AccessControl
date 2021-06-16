@@ -1,0 +1,19 @@
+{
+    "name": "princeks2000/accesscontrol",
+    "description": "Access control",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Prince K S",
+            "email": "princeks2000@gmail.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "accesscontrol\\":"src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
