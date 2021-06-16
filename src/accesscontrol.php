@@ -8,6 +8,7 @@ class accesscontrol
 	
 	public function getcontrol()
 	{
-		echo 'get control';
+		echo 'get control1';
+		echo 'get control2';
 	}
 }
