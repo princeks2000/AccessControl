@@ -1,9 +1,9 @@
 <?php
-namespace accesscontrol
+namespace AccessControl
 /**
  * 
  */
-class accesscontrol 
+class AccessControl 
 {
 	
 	public function getcontrol()
