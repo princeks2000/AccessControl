@@ -1,4 +1,5 @@
 <?php
+
 namespace Princeks2000\AccessControl;
 class AccessControl
 {
